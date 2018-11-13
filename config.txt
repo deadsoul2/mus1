@@ -1,6 +1,7 @@
-token=NTA2MTY4NjI1NzIwMTk3MTMw.Drzutg.2HTGQTtEXHsJh1XSBvk9RoHOQ10
+token=NTExOTc0NDg5MjgyNTc2Mzg0.DsytaA.RuHiVVfbSTlMs8ls59yAio1f_PU
 owner=485579083649122304
-prefix=O
-game= DAMN
+prefix=1
+game= BOND MUSIC.
 stayinchannel=true
 songinstatus=false
+status=idle
