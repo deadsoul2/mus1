@@ -1,0 +1,6 @@
+token=NTA2MTY4NjI1NzIwMTk3MTMw.Drzutg.2HTGQTtEXHsJh1XSBvk9RoHOQ10
+owner=485579083649122304
+prefix=O
+game= DAMN
+stayinchannel=true
+songinstatus=false
