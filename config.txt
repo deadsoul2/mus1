@@ -1,7 +1,7 @@
-token=NTExOTc0NDg5MjgyNTc2Mzg0.DsytaA.RuHiVVfbSTlMs8ls59yAio1f_PU
-owner=485579083649122304
-prefix=1
-game= BOND MUSIC.
+token=NTExOTc0NDg5MjgyNTc2Mzg0.DtB7-A.yRIw_0fnVWL1_MC7Cp-1_QNeD3s
+owner=439308353819377667
+prefix=K
+game= Uncle Kwild.
 stayinchannel=true
 songinstatus=false
 status=idle
